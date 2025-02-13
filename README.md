@@ -1,4 +1,4 @@
-# Welcome to `mastrogpt-starter`
+# Welcome to `mastrogpt-starter` FORKED by CR for training
 
 This repository is the starter for the course **Developing Open LLM applications with Apache OpenServerless**, also known as **The MastroGPT course**.
 
